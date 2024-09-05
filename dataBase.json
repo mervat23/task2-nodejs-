@@ -1,0 +1,287 @@
+[
+  {
+    "id": 1,
+    "firstName": "noha",
+    "lastName": "mohammed",
+    "city": "minya",
+    "age": 20,
+    "subjects": [
+      {
+        "algorithms": 55,
+        "python": 78,
+        "physics": 89,
+        "electronics": 68,
+        "math": 50,
+        "english": 66
+      }
+    ],
+    "totalGrades": 406,
+    "averagOfGrades": 67.66666666666667
+  },
+  {
+    "id": 2,
+    "firstName": "ahmed",
+    "lastName": "ali",
+    "city": "minya",
+    "age": 23,
+    "subjects": [
+      {
+        "algorithms": 67,
+        "python": 79,
+        "physics": 83,
+        "electronics": 68,
+        "math": 50,
+        "english": 70
+      }
+    ],
+    "totalGrades": 417,
+    "averagOfGrades": 69.5
+  },
+  {
+    "id": 3,
+    "firstName": "mervat",
+    "lastName": "gomaa",
+    "city": "minya",
+    "age": 23,
+    "subjects": [
+      {
+        "algorithms": 99,
+        "python": 79,
+        "physics": 94,
+        "electronics": 84,
+        "math": 60,
+        "english": 90
+      }
+    ],
+    "totalGrades": 506,
+    "averagOfGrades": 84.33333333333333
+  },
+  {
+    "id": 4,
+    "firstName": "sara",
+    "lastName": "hassan",
+    "city": "minya",
+    "age": 22,
+    "subjects": [
+      {
+        "algorithms": 100,
+        "python": 67,
+        "physics": 94,
+        "electronics": 84,
+        "math": 60,
+        "english": 90
+      }
+    ],
+    "totalGrades": 495,
+    "averagOfGrades": 82.5
+  },
+  {
+    "id": 5,
+    "firstName": "fatma",
+    "lastName": "momean",
+    "city": "giza",
+    "age": 21,
+    "subjects": [
+      {
+        "algorithms": 100,
+        "python": 67,
+        "physics": 56,
+        "electronics": 80,
+        "math": 60,
+        "english": 90
+      }
+    ],
+    "totalGrades": 453,
+    "averagOfGrades": 75.5
+  },
+  {
+    "id": 6,
+    "firstName": "ashraf",
+    "lastName": "wael",
+    "city": "giza",
+    "age": 19,
+    "subjects": [
+      {
+        "algorithms": 78,
+        "python": 50,
+        "physics": 56,
+        "electronics": 80,
+        "math": 60,
+        "english": 90
+      }
+    ],
+    "totalGrades": 414,
+    "averagOfGrades": 69
+  },
+  {
+    "id": 7,
+    "firstName": "mona",
+    "lastName": "sayed",
+    "city": "giza",
+    "age": 24,
+    "subjects": [
+      {
+        "algorithms": 78,
+        "python": 50,
+        "physics": 91,
+        "electronics": 65,
+        "math": 60,
+        "english": 90
+      }
+    ],
+    "totalGrades": 434,
+    "averagOfGrades": 72.33333333333333
+  },
+  {
+    "id": 8,
+    "firstName": "aya",
+    "lastName": "mohammed",
+    "city": "mansoura",
+    "age": 20,
+    "subjects": [
+      {
+        "algorithms": 78,
+        "python": 50,
+        "physics": 91,
+        "electronics": 65,
+        "math": 70,
+        "english": 100
+      }
+    ],
+    "totalGrades": 454,
+    "averagOfGrades": 75.66666666666667
+  },
+  {
+    "id": 9,
+    "firstName": "tasneem",
+    "lastName": "kareem",
+    "city": "mansoura",
+    "age": 21,
+    "subjects": [
+      {
+        "algorithms": 78,
+        "python": 50,
+        "physics": 50,
+        "electronics": 87,
+        "math": 70,
+        "english": 100
+      }
+    ],
+    "totalGrades": 435,
+    "averagOfGrades": 72.5
+  },
+  {
+    "id": 15,
+    "firstName": "noura",
+    "lastName": "mahmoud",
+    "city": "beni suef",
+    "age": 24,
+    "subjects": [
+      {
+        "algorithms": 69,
+        "python": 80,
+        "physics": 80,
+        "electronics": 63,
+        "math": 55,
+        "english": 87
+      }
+    ],
+    "totalGrades": 434,
+    "averagOfGrades": 72.33333333333333
+  },
+  {
+    "id": 16,
+    "firstName": "mazen",
+    "lastName": "mahmoud",
+    "city": "beni suef",
+    "age": 21,
+    "subjects": [
+      {
+        "algorithms": 69,
+        "python": 80,
+        "physics": 90,
+        "electronics": 68,
+        "math": 55,
+        "english": 87
+      }
+    ],
+    "totalGrades": 449,
+    "averagOfGrades": 74.83333333333333
+  },
+  {
+    "id": 17,
+    "firstName": "ali",
+    "lastName": "osman",
+    "city": "beni suef",
+    "age": 21,
+    "subjects": [
+      {
+        "algorithms": 69,
+        "python": 80,
+        "physics": 90,
+        "electronics": 68,
+        "math": 63,
+        "english": 68
+      }
+    ],
+    "totalGrades": 438,
+    "averagOfGrades": 73
+  },
+  {
+    "id": 18,
+    "firstName": "khalefa",
+    "lastName": "osama",
+    "city": "beni suef",
+    "age": 23,
+    "subjects": [
+      {
+        "algorithms": 80,
+        "python": 95,
+        "physics": 90,
+        "electronics": 68,
+        "math": 63,
+        "english": 68
+      }
+    ],
+    "totalGrades": 464,
+    "averagOfGrades": 77.33333333333333
+  },
+  {
+    "id": 19,
+    "firstName": "somia",
+    "lastName": "ahmed",
+    "city": "beni suef",
+    "age": 21,
+    "subjects": [
+      {
+        "algorithms": 80,
+        "python": 95,
+        "physics": 60,
+        "electronics": 70,
+        "math": 63,
+        "english": 68
+      }
+    ],
+    "totalGrades": 436,
+    "averagOfGrades": 72.66666666666667
+  },
+  {
+    "id": 20,
+    "firstName": "mark",
+    "lastName": "ahmed",
+    "city": "beni suef",
+    "age": 21,
+    "subjects": [
+      {
+        "algorithms": 80,
+        "python": 95,
+        "physics": 60,
+        "electronics": 70,
+        "math": 63,
+        "english": 68
+      }
+    ],
+    "totalGrades": 436,
+    "averagOfGrades": 72.66666666666667
+  }
+]
